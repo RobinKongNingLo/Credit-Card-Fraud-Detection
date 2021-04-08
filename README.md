@@ -5,3 +5,5 @@
 • Detecting fraudulent credit card transactions by training various machine learning models including Logistic Re-gression, Decision Tree, Random Forest and XGBoost.
 
 • XGBoost improved recall by 7.9% and precision by 23.3% compared to the baseline model (Logistic Regression).
+
+Link of the dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud
